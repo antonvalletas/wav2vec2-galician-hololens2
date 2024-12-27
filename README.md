@@ -34,4 +34,4 @@ This work has been funded by grant XXXXXXXXXX funded by XXXXXXXX and XXXXXXX.
 
 ## License
 
-This dataset and model are released under the GPLv3 License. See the [LICENSE](LICENSE) file for more information.
+These models are released under the GPLv3 License. See the [LICENSE](LICENSE) file for more information.
