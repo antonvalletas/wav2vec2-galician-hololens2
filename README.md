@@ -30,7 +30,7 @@ This repository contains the fine-tuned, quantized, and optimized models used to
 
 ## Funding
 
-This work has been funded by grant XXXXXXXXXX funded by XXXXXXXX and XXXXXXX.
+This work has been supported by Centro Mixto de Investigación UDC-NAVANTIA (IN853C 2022/01), funded by GAIN (Xunta de Galicia) and ERDF Galicia 2021-2027.
 
 ## License
 
